@@ -1,0 +1,11 @@
+Professor's Math Care — GitHub Pages deployment guide
+
+1. Extract this ZIP.
+2. Create a PUBLIC GitHub repository named professors-math-care.
+3. Upload the extracted files directly into repository root (not inside a second folder).
+4. In Settings > Pages > Build and deployment, choose Deploy from a branch, main, /(root), Save.
+5. Once built, the URL format is https://YOUR-GITHUB-USERNAME.github.io/professors-math-care/
+
+Note: GitHub Pages prohibits using the service to run an online business or as a site primarily facilitating commercial transactions. Check GitHub Pages terms before using this as a promotional business website.
+
+All file paths within the website are relative and designed to work in a GitHub Pages project site.
